@@ -1,4 +1,4 @@
-# 💫 Hi!
+# 💫 Hi! I am Mr.Cheeku...
 BS Software Engineering Student 🎓 | Developer 💻 | AI 🤖 & Cybersecurity 🛡️ | Building practical projects, experimenting with new ideas, and turning concepts into real software 🚀<br>
 
 
