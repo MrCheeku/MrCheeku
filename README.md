@@ -1,39 +1,65 @@
-# 💫 Hi! I am Mr.Cheeku...
-BS Software Engineering Student 🎓 | Developer 💻 | AI 🤖 & Cybersecurity 🛡️ | Building practical projects, experimenting with new ideas, and turning concepts into real software 🚀<br>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              MR.CHEEKU PROFILE                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/GWJvzcxuN) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=220&section=header&text=MR.CHEEKU&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=TECH%20WITH%20CHEEKU&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MrCheeku&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MrCheeku&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MrCheeku&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrCheeku&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/MrCheeku">
+  <img src="https://github.com/MrCheeku.png" width="125" height="125" alt="Muhammad Akmal"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrCheeku&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br><br>
+
+<h1>👋 Hi, I'm Muhammad Akmal</h1>
+
+<h3>BS Software Engineering Student • AI Enthusiast • Developer • Tech Creator</h3>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=800&height=60&lines=Software+Engineering;AI+%26+Automation;Web+Development;App+Development;AI+Tools+%26+Prompt+Engineering;Developer+Tools;Open+Source;Tech+Content+Creation"
+    alt="Typing SVG"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/MrCheeku">
+  <img src="https://img.shields.io/badge/GitHub-MrCheeku-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://discord.com/invite/GWJvzcxuN">
+  <img src="https://img.shields.io/badge/Discord-Tech%20With%20Cheeku-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y">
+  <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MrCheeku&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MrCheeku&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
 
-<!--
-**MrCheeku/MrCheeku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Muhammad Akmal**, a **BS Software Engineering student** exploring the intersection of software development, artificial intelligence, automation, and technology.
 
-Here are some ideas to get you started:
+I enjoy learning by building — experimenting with new tools, creating software projects, exploring AI workflows, and sharing useful technology resources through **Tech With Cheeku**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  💻 Learn       → Explore software engineering               │
+│  🤖 Experiment  → Explore AI, tools & automation             │
+│  🛠️ Build       → Create practical software projects         │
+│  🌱 Improve     → Learn through experimentation               │
+│  📢 Share       → Share useful technology & resources         │
+└──────────────────────────────────────────────────────────────┘
