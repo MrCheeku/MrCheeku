@@ -93,20 +93,23 @@ I enjoy exploring software development, artificial intelligence, and modern deve
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrCheeku&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=EF93C4&icon_color=EF93C4&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCheeku&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=EF93C4&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-stats.svg" height="285" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrCheeku&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=888888" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrCheeku&bg_color=00000000&color=c9d1d9&line=EF93C4&point=FF69B4&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-languages.svg" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrCheeku&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-trophies.svg" alt="GitHub Achievements and Milestones" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-activity.svg" alt="GitHub Contribution Activity" />
 </p>
 
 <br>
