@@ -46,7 +46,7 @@ I enjoy exploring software development, artificial intelligence, and modern deve
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding animation">
+<img data-importer="image" src="https://i.imgflip.com/65efzo.gif" height="150" alt="Animated profile image">
 
 </td>
 </tr>
