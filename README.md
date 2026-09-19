@@ -117,7 +117,6 @@ I enjoy exploring software development, artificial intelligence, and modern deve
   <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-> **Note:** The contribution snake requires a GitHub Actions workflow to generate `output/github-contribution-grid-snake.svg`.
 
 <br>
 
