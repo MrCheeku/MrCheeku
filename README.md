@@ -24,7 +24,7 @@
   <a href="https://techwithcheeku.lovable.app/">
     <img src="https://img.shields.io/badge/Website-Tech%20with%20Cheeku-EF93C4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://discord.gg/GWJvzcxuN">
+  <a href="https://discord.gg/c9Ce54dw96">
     <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y">
@@ -158,7 +158,7 @@ Creating utilities and tools that make development, learning, and everyday workf
   <img src="https://img.shields.io/badge/Website-Visit-EF93C4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
 
-<a href="https://discord.gg/GWJvzcxuN">
+<a href="https://discord.gg/c9Ce54dw96">
   <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
