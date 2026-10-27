@@ -18,8 +18,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/MrCheeku">
-    <img src="https://img.shields.io/badge/GitHub-MrCheeku-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+ 
   </a>
   <a href="https://techwithcheeku.lovable.app/">
     <img src="https://img.shields.io/badge/Website-Tech%20with%20Cheeku-EF93C4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
