@@ -7,7 +7,7 @@
 <td width="68%" valign="middle">
 
 <h1>Hey, I'm <strong>Mr.Cheeku</strong> 👋</h1>
-<h3>Classic Anime Lover × Tech Creator</h3>
+<h3>Tech Creator</h3>
 <p><strong>Software Developer</strong> · <strong>AI Enthusiast</strong> · <strong>BSSE Student</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=850&color=EF93C4&center=false&vCenter=true&width=590&lines=Building+the+future%2C+one+commit+at+a+time;Anime+Soul.+Developer+Mindset.;Exploring+AI%2C+code%2C+and+creative+technology;Build+%E2%80%A2+Learn+%E2%80%A2+Experiment+%E2%80%A2+Repeat" alt="Animated introduction" />
@@ -28,7 +28,6 @@
 <td width="32%" align="center" valign="middle">
 
 <img src="https://i.imgflip.com/65efzo.gif" height="190" alt="Existing animated character visual" />
-<sub>THE ORIGINAL ANIMATED IDENTITY VISUAL</sub>
 
 </td>
 </tr>
@@ -38,11 +37,11 @@
 
 ---
 
-## ✦ 01 / The Human Behind the Interface
+## The Human Behind the Interface
 
-I'm **Mr.Cheeku** — a **BSSE student**, Software Developer, AI Enthusiast, and classic anime lover. I enjoy bringing creative ideas to life through software, exploring emerging technology, and building practical tools with a distinctive visual identity.
+I'm **Mr.Cheeku** — a **BSSE student**, Software Developer, AI Enthusiast , Angry Bird Lover , Tekken Lover , Gamer. I enjoy bringing creative ideas to life through software, exploring emerging technology, and building practical tools with a distinctive visual identity.
 
-My world sits somewhere between late-night anime scenes, futuristic interfaces, curious experiments, and the endless possibilities of code.
+My world sits somewhere between late-night gaming scenes, futuristic interfaces, curious experiments, and the endless possibilities of code.
 
 ### Current missions
 
@@ -57,7 +56,7 @@ My world sits somewhere between late-night anime scenes, futuristic interfaces, 
 
 ---
 
-## ✦ 02 / The Developer Arsenal
+## The Developer Arsenal
 
 ### Languages
 
@@ -85,7 +84,7 @@ My world sits somewhere between late-night anime scenes, futuristic interfaces, 
 
 ---
 
-## ✦ 03 / What I Like to Build
+## What I Like to Build
 
 <table>
 <tr>
@@ -124,25 +123,7 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 ---
 
-## ✦ 04 / Live Developer Telemetry
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-stats.svg" alt="GitHub statistics" />
-  <img width="49%" src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-streak.svg" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-languages.svg" alt="Most used programming languages" />
-  <img width="49%" src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-trophies.svg" alt="GitHub milestones" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-activity.svg" alt="Contribution activity over the last year" />
-</p>
-
----
-
-## ✦ 05 / Contribution Transmission
+## Contribution Transmission
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
@@ -150,7 +131,7 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 ---
 
-## ✦ 06 / Open a Channel
+## Community
 
 <p align="center">
   <a href="https://github.com/MrCheeku"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
@@ -169,6 +150,6 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 **Engineered by Mr.Cheeku**
 
-<sub>CLASSIC ANIME SOUL · FUTURE BUILDER · SYSTEM 3050</sub>
+<sub>Gamer · FUTURE BUILDER · Tech Creator</sub>
 
 </div>
