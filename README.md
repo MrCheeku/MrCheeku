@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <a href="https://techwithcheeku.lovable.app/"><img src="https://img.shields.io/badge/WEBSITE-TECH%20WITH%20CHEEKU-EF93C4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://TechWithCheeku.app"><img src="https://img.shields.io/badge/WEBSITE-TECH%20WITH%20CHEEKU-EF93C4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.gg/c9Ce54dw96"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord community" /></a>
   <a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y"><img src="https://img.shields.io/badge/WHATSAPP-FOLLOW%20THE%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp channel" /></a>
 </p>
@@ -84,6 +84,31 @@ My world sits somewhere between late-night gaming scenes, futuristic interfaces,
 
 ---
 
+## Developer Telemetry
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-stats.svg" alt="GitHub developer statistics for Mr.Cheeku" width="100%" />
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+</td>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-languages.svg" alt="Most used programming languages across owned repositories" width="100%" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrCheeku/MrCheeku/output/github-activity.svg" alt="Daily contribution activity over the past 12 months" width="100%" />
+</p>
+
+<sub>Live SVG assets are generated from GitHub GraphQL data by the profile-assets workflow.</sub>
+
+---
+
 ## What I Like to Build
 
 <table>
@@ -135,7 +160,7 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 <p align="center">
   <a href="https://github.com/MrCheeku"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://techwithcheeku.lovable.app/"><img src="https://img.shields.io/badge/Website-Enter%20the%20lab-EF93C4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://TechWithCheeku.app"><img src="https://img.shields.io/badge/Website-Enter%20the%20lab-EF93C4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.gg/c9Ce54dw96"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y"><img src="https://img.shields.io/badge/WhatsApp-Follow-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp channel" /></a>
 </p>
