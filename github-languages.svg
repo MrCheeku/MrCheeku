@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="290" viewBox="0 0 920 290" role="img" aria-label="Most Used Languages">
+<defs>
+  <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0c1020"/>
+    <stop offset="55%" stop-color="#17152b"/>
+    <stop offset="100%" stop-color="#101a2b"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ef93c4"/>
+    <stop offset="52%" stop-color="#a58cff"/>
+    <stop offset="100%" stop-color="#63d9ff"/>
+  </linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ff72c6"/>
+    <stop offset="100%" stop-color="#b28cff"/>
+  </linearGradient>
+  <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#8190b8" stroke-opacity=".08" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="100%" height="100%" rx="20" fill="url(#canvas)"/>
+<rect width="100%" height="100%" rx="20" fill="url(#grid)"/>
+<circle cx="865" cy="5" r="116" fill="#a56dff" opacity=".08"/>
+<path d="M0 58 H920" stroke="#ef93c4" stroke-opacity=".24"/>
+<text x="30" y="38" fill="#f5c5e3" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Most Used Languages</text>
+<text x="890" y="37" text-anchor="end" fill="#93a1c4" font-family="Consolas,monospace" font-size="10" letter-spacing="2">MR.CHEEKU // SYSTEM 3050</text>
+<path d="M30 58 H890" stroke="url(#neon)" stroke-width="2" opacity=".7"/>
+<text x="38" y="91" text-anchor="start" fill="#d8deef" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Kotlin  ·  84.9%</text><rect x="270" y="78" width="500" height="13" rx="6.5" fill="#242a40"/><rect x="270" y="78" width="424.7" height="13" rx="6.5" fill="url(#neon)"/><text x="38" y="120" text-anchor="start" fill="#d8deef" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">TypeScript  ·  9.7%</text><rect x="270" y="107" width="500" height="13" rx="6.5" fill="#242a40"/><rect x="270" y="107" width="48.4" height="13" rx="6.5" fill="url(#neon)"/><text x="38" y="149" text-anchor="start" fill="#d8deef" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Python  ·  4.9%</text><rect x="270" y="136" width="500" height="13" rx="6.5" fill="#242a40"/><rect x="270" y="136" width="24.4" height="13" rx="6.5" fill="url(#neon)"/><text x="38" y="178" text-anchor="start" fill="#d8deef" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">HTML  ·  0.5%</text><rect x="270" y="165" width="500" height="13" rx="6.5" fill="#242a40"/><rect x="270" y="165" width="3.0" height="13" rx="6.5" fill="url(#neon)"/><text x="460" y="270" text-anchor="middle" fill="#8795b6" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="400">Based on language bytes in up to 100 recently updated non-fork repositories</text></svg>
