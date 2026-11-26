@@ -7,19 +7,19 @@
 <td width="68%" valign="middle">
 
 <h1>Hey, I'm <strong>Mr.Cheeku</strong> 👋</h1>
-<h3>Classic Anime Lover · Tech Creator</h3>
+<h3>Tech Creator</h3>
 <p><strong>Software Developer</strong> · <strong>AI Enthusiast</strong> · <strong>BSSE Student</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=850&color=60A5FA&center=false&vCenter=true&width=590&lines=Building+the+future%2C+one+commit+at+a+time;Anime+Soul.+Developer+Mindset.;Exploring+AI%2C+code%2C+and+creative+technology;Build+%E2%80%A2+Learn+%E2%80%A2+Experiment+%E2%80%A2+Repeat" alt="Animated introduction" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MrCheeku&label=PROFILE%20VIEWS&color=60A5FA&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/MrCheeku?label=FOLLOWERS&style=for-the-badge&color=93C5FD&labelColor=171323" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/ERA-3050-8B7CFF?style=for-the-badge&labelColor=171323" alt="Creative era 3050" />
+  <img src="https://img.shields.io/github/followers/MrCheeku?label=FOLLOWERS&style=for-the-badge&color=93C5FD&labelColor=0B1220" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/ERA-3050-818CF8?style=for-the-badge&labelColor=0B1220" alt="Creative era 3050" />
 </p>
 
 <p>
-  <a href="https://techwithcheeku.app/"><img src="https://img.shields.io/badge/WEBSITE-TECH%20WITH%20CHEEKU-60A5FA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://techwithcheeku.lovable.app/"><img src="https://img.shields.io/badge/WEBSITE-TECH%20WITH%20CHEEKU-60A5FA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.gg/c9Ce54dw96"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord community" /></a>
   <a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y"><img src="https://img.shields.io/badge/WHATSAPP-FOLLOW%20THE%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp channel" /></a>
 </p>
@@ -39,7 +39,7 @@
 
 ## The Human Behind the Interface
 
-I'm **Mr.Cheeku** — a **BSSE student**, Software Developer, AI Enthusiast, Angry Birds fan, Tekken fan , Gamer. I enjoy bringing creative ideas to life through software, exploring emerging technology, and building practical tools with a distinctive visual identity.
+I'm **Mr.Cheeku** — a **BSSE student**, Software Developer, AI Enthusiast , Angry Bird Lover , Tekken Lover , Gamer. I enjoy bringing creative ideas to life through software, exploring emerging technology, and building practical tools with a distinctive visual identity.
 
 My world sits somewhere between late-night gaming scenes, futuristic interfaces, curious experiments, and the endless possibilities of code.
 
@@ -135,7 +135,7 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 <p align="center">
   <a href="https://github.com/MrCheeku"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://techwithcheeku.app/"><img src="https://img.shields.io/badge/Website-Enter%20the%20lab-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://techwithcheeku.lovable.app/"><img src="https://img.shields.io/badge/Website-Enter%20the%20lab-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.gg/c9Ce54dw96"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y"><img src="https://img.shields.io/badge/WhatsApp-Follow-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp channel" /></a>
 </p>
@@ -150,6 +150,6 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 **Engineered by Mr.Cheeku**
 
-<sub>Classic Anime Lover · Gamer · Future Builder · Tech Creator</sub>
+<sub>Gamer · FUTURE BUILDER · Tech Creator</sub>
 
 </div>

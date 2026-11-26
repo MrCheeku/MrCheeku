@@ -167,7 +167,7 @@ def svg_open(title, width=920, height=290):
 <defs>
   <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#0c1020"/>
-    <stop offset="55%" stop-color="#17152b"/>
+    <stop offset="55%" stop-color="#132039"/>
     <stop offset="100%" stop-color="#101a2b"/>
   </linearGradient>
   <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
@@ -191,7 +191,7 @@ def svg_open(title, width=920, height=290):
 <rect width="100%" height="100%" rx="20" fill="url(#grid)"/>
 <circle cx="{width - 55}" cy="5" r="116" fill="#1d4ed8" opacity=".08"/>
 <path d="M0 58 H{width}" stroke="#60a5fa" stroke-opacity=".24"/>
-<text x="30" y="38" fill="#dbeafe" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">{escape(title)}</text>
+<text x="30" y="38" fill="#bfdbfe" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">{escape(title)}</text>
 <text x="{width - 30}" y="37" text-anchor="end" fill="#93a1c4" font-family="Consolas,monospace" font-size="10" letter-spacing="2">MR.CHEEKU // SYSTEM 3050</text>
 <path d="M30 58 H{width - 30}" stroke="url(#neon)" stroke-width="2" opacity=".7"/>
 """
