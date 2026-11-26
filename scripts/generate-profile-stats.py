@@ -171,13 +171,13 @@ def svg_open(title, width=920, height=290):
     <stop offset="100%" stop-color="#101a2b"/>
   </linearGradient>
   <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#ef93c4"/>
-    <stop offset="52%" stop-color="#a58cff"/>
+    <stop offset="0%" stop-color="#60a5fa"/>
+    <stop offset="52%" stop-color="#818cf8"/>
     <stop offset="100%" stop-color="#63d9ff"/>
   </linearGradient>
-  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#ff72c6"/>
-    <stop offset="100%" stop-color="#b28cff"/>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#60a5fa"/>
+    <stop offset="100%" stop-color="#818cf8"/>
   </linearGradient>
   <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
     <feGaussianBlur stdDeviation="3" result="blur"/>
@@ -189,9 +189,9 @@ def svg_open(title, width=920, height=290):
 </defs>
 <rect width="100%" height="100%" rx="20" fill="url(#canvas)"/>
 <rect width="100%" height="100%" rx="20" fill="url(#grid)"/>
-<circle cx="{width - 55}" cy="5" r="116" fill="#a56dff" opacity=".08"/>
-<path d="M0 58 H{width}" stroke="#ef93c4" stroke-opacity=".24"/>
-<text x="30" y="38" fill="#f5c5e3" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">{escape(title)}</text>
+<circle cx="{width - 55}" cy="5" r="116" fill="#1d4ed8" opacity=".08"/>
+<path d="M0 58 H{width}" stroke="#60a5fa" stroke-opacity=".24"/>
+<text x="30" y="38" fill="#dbeafe" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">{escape(title)}</text>
 <text x="{width - 30}" y="37" text-anchor="end" fill="#93a1c4" font-family="Consolas,monospace" font-size="10" letter-spacing="2">MR.CHEEKU // SYSTEM 3050</text>
 <path d="M30 58 H{width - 30}" stroke="url(#neon)" stroke-width="2" opacity=".7"/>
 """
@@ -213,7 +213,7 @@ def metric_card(x, y, width, height, value, label):
     return f"""<g>
 <rect x="{x}" y="{y}" width="{width}" height="{height}" rx="13" fill="#151b2b" stroke="#3a3c58" stroke-width="1"/>
 <rect x="{x}" y="{y}" width="4" height="{height}" rx="2" fill="url(#neon)"/>
-<text x="{x + 18}" y="{y + 39}" fill="#fff4fc" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" filter="url(#softGlow)">{escape(str(value))}</text>
+<text x="{x + 18}" y="{y + 39}" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" filter="url(#softGlow)">{escape(str(value))}</text>
 <text x="{x + 18}" y="{y + 64}" fill="#9da9c5" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing=".4">{escape(str(label))}</text>
 </g>"""
 
@@ -280,8 +280,8 @@ milestones = [
 ]
 for x, y, width, height, symbol, label, value in milestones:
     svg += f'<rect x="{x}" y="{y}" width="{width}" height="{height}" rx="13" fill="#151b2b" stroke="#3a3c58"/>'
-    svg += text_node(x + 17, y + 30, symbol, 20, "#ef93c4", "700")
-    svg += text_node(x + 17, y + 61, value, 23, "#fff4fc", "700")
+    svg += text_node(x + 17, y + 30, symbol, 20, "#60a5fa", "700")
+    svg += text_node(x + 17, y + 61, value, 23, "#f8fafc", "700")
     svg += text_node(x + 17, y + 81, label, 11, "#9da9c5")
 svg += text_node(460, 220, "Public profile activity · refreshed by GitHub Actions", 11, "#8795b6", "400", "middle")
 svg += svg_close()
@@ -306,9 +306,9 @@ for item in days:
         if count / max_contributions > 0.72:
             fill = "#63d9ff"
         elif count / max_contributions > 0.42:
-            fill = "#a58cff"
+            fill = "#818cf8"
         else:
-            fill = "#ef93c4"
+            fill = "#60a5fa"
     svg += (
         f'<rect x="{x_position:.2f}" y="{baseline - bar_height:.1f}" '
         f'width="{max(1.1, step - 0.55):.2f}" height="{bar_height:.1f}" '

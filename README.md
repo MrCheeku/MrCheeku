@@ -10,16 +10,16 @@
 <h3>Tech Creator</h3>
 <p><strong>Software Developer</strong> · <strong>AI Enthusiast</strong> · <strong>BSSE Student</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=850&color=EF93C4&center=false&vCenter=true&width=590&lines=Building+the+future%2C+one+commit+at+a+time;Anime+Soul.+Developer+Mindset.;Exploring+AI%2C+code%2C+and+creative+technology;Build+%E2%80%A2+Learn+%E2%80%A2+Experiment+%E2%80%A2+Repeat" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=850&color=60A5FA&center=false&vCenter=true&width=590&lines=Building+the+future%2C+one+commit+at+a+time;Anime+Soul.+Developer+Mindset.;Exploring+AI%2C+code%2C+and+creative+technology;Build+%E2%80%A2+Learn+%E2%80%A2+Experiment+%E2%80%A2+Repeat" alt="Animated introduction" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MrCheeku&label=PROFILE%20VIEWS&color=EF93C4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/MrCheeku?label=FOLLOWERS&style=for-the-badge&color=F8BBD0&labelColor=171323" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=MrCheeku&label=PROFILE%20VIEWS&color=60A5FA&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MrCheeku?label=FOLLOWERS&style=for-the-badge&color=93C5FD&labelColor=171323" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/ERA-3050-8B7CFF?style=for-the-badge&labelColor=171323" alt="Creative era 3050" />
 </p>
 
 <p>
-  <a href="https://techwithcheeku.lovable.app/"><img src="https://img.shields.io/badge/WEBSITE-TECH%20WITH%20CHEEKU-EF93C4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://techwithcheeku.app/"><img src="https://img.shields.io/badge/WEBSITE-TECH%20WITH%20CHEEKU-60A5FA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.gg/c9Ce54dw96"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord community" /></a>
   <a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y"><img src="https://img.shields.io/badge/WHATSAPP-FOLLOW%20THE%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp channel" /></a>
 </p>
@@ -39,7 +39,7 @@
 
 ## The Human Behind the Interface
 
-I'm **Mr.Cheeku** — a **BSSE student**, Software Developer, AI Enthusiast , Angry Bird Lover , Tekken Lover , Gamer. I enjoy bringing creative ideas to life through software, exploring emerging technology, and building practical tools with a distinctive visual identity.
+I'm **Mr.Cheeku** — a **BSSE student**, Software Developer, AI Enthusiast, Angry Birds fan, Tekken fan , Gamer. I enjoy bringing creative ideas to life through software, exploring emerging technology, and building practical tools with a distinctive visual identity.
 
 My world sits somewhere between late-night gaming scenes, futuristic interfaces, curious experiments, and the endless possibilities of code.
 
@@ -135,7 +135,7 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 <p align="center">
   <a href="https://github.com/MrCheeku"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://techwithcheeku.lovable.app/"><img src="https://img.shields.io/badge/Website-Enter%20the%20lab-EF93C4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://techwithcheeku.app/"><img src="https://img.shields.io/badge/Website-Enter%20the%20lab-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.gg/c9Ce54dw96"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y"><img src="https://img.shields.io/badge/WhatsApp-Follow-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp channel" /></a>
 </p>
@@ -146,7 +146,7 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 ### 🚀 Building the future, one project at a time.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171323,35:7D4D9C,70:EF93C4,100:63D9FF&height=130&section=footer" alt="Neon gradient footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171323,35:7D4D9C,70:60A5FA,100:63D9FF&height=130&section=footer" alt="Neon gradient footer" width="100%" />
 
 **Engineered by Mr.Cheeku**
 

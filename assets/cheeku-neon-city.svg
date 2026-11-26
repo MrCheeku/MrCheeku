@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
 <title id="title">Mr. Cheeku — Neon City 3050</title>
-<desc id="desc">An original futuristic skyline with neon pink and electric blue light, a rising digital sun, and the Mr. Cheeku identity.</desc>
+<desc id="desc">An original futuristic skyline with electric blue and indigo light, a rising digital sun, and the Mr. Cheeku identity.</desc>
 <defs>
   <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#090b18"/>
@@ -8,13 +8,13 @@
     <stop offset="100%" stop-color="#0b2030"/>
   </linearGradient>
   <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#ffd4ed"/>
-    <stop offset="45%" stop-color="#ef93c4"/>
-    <stop offset="100%" stop-color="#8e6bff"/>
+    <stop offset="0%" stop-color="#dbeafe"/>
+    <stop offset="45%" stop-color="#60a5fa"/>
+    <stop offset="100%" stop-color="#4f46e5"/>
   </linearGradient>
   <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#ef93c4"/>
-    <stop offset="52%" stop-color="#a58cff"/>
+    <stop offset="0%" stop-color="#60a5fa"/>
+    <stop offset="52%" stop-color="#818cf8"/>
     <stop offset="100%" stop-color="#63d9ff"/>
   </linearGradient>
   <linearGradient id="city" x1="0" y1="0" x2="0" y2="1">
@@ -43,16 +43,16 @@
   <circle cx="1130" cy="124" r="1"/>
 </g>
 
-<circle cx="922" cy="185" r="104" fill="#ef93c4" opacity=".12" filter="url(#glow)"/>
+<circle cx="922" cy="185" r="104" fill="#60a5fa" opacity=".12" filter="url(#glow)"/>
 <circle cx="922" cy="185" r="84" fill="url(#sun)" opacity=".92"/>
 <g stroke="#3c244e" stroke-width="8" opacity=".55">
   <path d="M842 178H1002"/><path d="M850 199H994"/><path d="M865 220H979"/>
 </g>
-<path d="M780 288 Q920 240 1060 288" fill="none" stroke="#ef93c4" stroke-width="2" opacity=".45" filter="url(#glow)"/>
+<path d="M780 288 Q920 240 1060 288" fill="none" stroke="#60a5fa" stroke-width="2" opacity=".45" filter="url(#glow)"/>
 
 <path d="M0 305V238H48V199H82V248H112V178H144V248H168V214H204V276H230V160H266V250H292V210H326V272H350V192H390V266H416V225H450V283H485V204H520V270H548V230H582V290H615V184H646V269H672V220H706V285H738V202H772V265H805V230H838V282H872V212H905V277H936V224H970V286H1004V198H1038V276H1071V226H1102V283H1135V215H1164V268H1200V430H0Z" fill="url(#city)" opacity=".98"/>
 
-<g fill="#ef93c4" opacity=".78">
+<g fill="#60a5fa" opacity=".78">
   <rect x="56" y="216" width="4" height="8" rx="1"/><rect x="126" y="194" width="4" height="7" rx="1"/>
   <rect x="242" y="181" width="5" height="8" rx="1"/><rect x="359" y="211" width="4" height="7" rx="1"/>
   <rect x="472" y="223" width="4" height="7" rx="1"/><rect x="627" y="201" width="4" height="7" rx="1"/>
@@ -68,12 +68,12 @@
 
 <path d="M0 324H1200" stroke="url(#neon)" stroke-width="2" opacity=".8" filter="url(#glow)"/>
 <path d="M0 350 Q330 310 600 350 T1200 342" fill="none" stroke="#63d9ff" stroke-width="1.5" opacity=".45"/>
-<path d="M0 377 Q340 335 650 374 T1200 365" fill="none" stroke="#ef93c4" stroke-width="1.5" opacity=".35"/>
+<path d="M0 377 Q340 335 650 374 T1200 365" fill="none" stroke="#60a5fa" stroke-width="1.5" opacity=".35"/>
 
 <g>
-  <text x="70" y="160" fill="#fff4fc" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="4">MR. CHEEKU</text>
+  <text x="70" y="160" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="4">MR. CHEEKU</text>
   <path d="M72 179H540" stroke="url(#neon)" stroke-width="4" filter="url(#glow)"/>
-  <text x="74" y="218" fill="#f2c5e2" font-family="Consolas,monospace" font-size="18" letter-spacing="3">CLASSIC ANIME SOUL</text>
+  <text x="74" y="218" fill="#bfdbfe" font-family="Consolas,monospace" font-size="18" letter-spacing="3">CLASSIC ANIME SOUL</text>
   <text x="74" y="248" fill="#9fdfff" font-family="Consolas,monospace" font-size="15" letter-spacing="2">SOFTWARE · AI · CREATIVE TECHNOLOGY</text>
 </g>
 
@@ -84,7 +84,7 @@
   <text x="1128" y="405" text-anchor="end">ENGINEERED BY MR.CHEEKU</text>
 </g>
 
-<g fill="none" stroke="#ef93c4" stroke-width="1.5" opacity=".65">
+<g fill="none" stroke="#60a5fa" stroke-width="1.5" opacity=".65">
   <path d="M1068 105h42v42"/><path d="M1130 105h-20v20"/>
   <path d="M66 286h30v-30"/><path d="M110 286H96"/>
 </g>
@@ -94,7 +94,7 @@
 <circle cx="1110" cy="315" r="3" fill="#63d9ff" filter="url(#glow)">
   <animate attributeName="opacity" values=".35;1;.35" dur="3.2s" repeatCount="indefinite"/>
 </circle>
-<path d="M72 270H360" stroke="#ef93c4" stroke-width="1" opacity=".25">
+<path d="M72 270H360" stroke="#60a5fa" stroke-width="1" opacity=".25">
   <animate attributeName="opacity" values=".15;.55;.15" dur="4s" repeatCount="indefinite"/>
 </path>
 </svg>
