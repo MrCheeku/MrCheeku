@@ -7,7 +7,7 @@
 <td width="68%" valign="middle">
 
 <h1>Hey, I'm <strong>Mr.Cheeku</strong> 👋</h1>
-<h3>Tech Creator</h3>
+<h3>Classic Anime Lover · Tech Creator</h3>
 <p><strong>Software Developer</strong> · <strong>AI Enthusiast</strong> · <strong>BSSE Student</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=850&color=60A5FA&center=false&vCenter=true&width=590&lines=Building+the+future%2C+one+commit+at+a+time;Anime+Soul.+Developer+Mindset.;Exploring+AI%2C+code%2C+and+creative+technology;Build+%E2%80%A2+Learn+%E2%80%A2+Experiment+%E2%80%A2+Repeat" alt="Animated introduction" />
@@ -150,6 +150,6 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 **Engineered by Mr.Cheeku**
 
-<sub>Gamer · FUTURE BUILDER · Tech Creator</sub>
+<sub>Classic Anime Lover · Gamer · Future Builder · Tech Creator</sub>
 
 </div>
