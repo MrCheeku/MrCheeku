@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <a href="https://techwithcheeku.lovable.app/"><img src="https://img.shields.io/badge/WEBSITE-TECH%20WITH%20CHEEKU-60A5FA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://techwithcheeku.app/"><img src="https://img.shields.io/badge/WEBSITE-TECH%20WITH%20CHEEKU-60A5FA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.gg/c9Ce54dw96"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord community" /></a>
   <a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y"><img src="https://img.shields.io/badge/WHATSAPP-FOLLOW%20THE%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp channel" /></a>
 </p>
@@ -27,7 +27,9 @@
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://i.imgflip.com/65efzo.gif" height="190" alt="Existing animated character visual" />
+<img src="https://avatars.githubusercontent.com/u/235286067?v=4" width="128" alt="Mr.Cheeku GitHub profile photo" />
+
+<img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Animated character visual" />
 
 </td>
 </tr>
@@ -135,7 +137,7 @@ Creating utilities and tools that make development, learning, and everyday workf
 
 <p align="center">
   <a href="https://github.com/MrCheeku"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://techwithcheeku.lovable.app/"><img src="https://img.shields.io/badge/Website-Enter%20the%20lab-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://techwithcheeku.app/"><img src="https://img.shields.io/badge/Website-Enter%20the%20lab-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.gg/c9Ce54dw96"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://whatsapp.com/channel/0029Vb9OpwgD8SDvISwrn73Y"><img src="https://img.shields.io/badge/WhatsApp-Follow-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp channel" /></a>
 </p>
